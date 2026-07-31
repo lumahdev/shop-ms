@@ -1,0 +1,3 @@
+[submodule "products-shop-ms"]
+	path = products-shop-ms
+	url = git@github.com:lumahdev/products-shop-ms.git
