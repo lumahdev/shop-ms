@@ -1,3 +1,15 @@
+[submodule "gateway-shop-ms"]
+	path = gateway-shop-ms
+	url = git@github.com:lumahdev/gateway-shop-ms.git
+[submodule "orders-shop-ms"]
+	path = orders-shop-ms
+	url = git@github.com:lumahdev/orders-shop-ms.git
 [submodule "products-shop-ms"]
 	path = products-shop-ms
 	url = git@github.com:lumahdev/products-shop-ms.git
+[submodule "server-shop-ms"]
+	path = server-shop-ms
+	url = git@github.com:lumahdev/server-shop-ms.git
+[submodule "users-shop-ms"]
+	path = users-shop-ms
+	url = git@github.com:lumahdev/users-shop-ms.git
