@@ -35,6 +35,11 @@ Neste projeto, realizei uma simulação de um microsserviço para o envio de e-m
 - E-mail informando que o pedido saiu para a entrega;
 <img width="1660" height="737" alt="image" src="https://github.com/user-attachments/assets/b4843b82-6b2d-4f35-b85b-24f4478d6e5d" />
 
-
 - E-mail informando que o pedido foi entregue.
 <img width="1660" height="737" alt="image" src="https://github.com/user-attachments/assets/46ebd92b-0ef5-462e-9b06-e186658a2270" />
+
+
+## Documentação da API
+<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/9a6e4fd0-599e-4009-a986-367db02800b6" />
+<img width="1920" height="963" alt="image" src="https://github.com/user-attachments/assets/4494a490-9bc5-4425-8d91-4513b100533f" />
+<img width="1914" height="406" alt="image" src="https://github.com/user-attachments/assets/57d7d29f-b5f9-4817-a522-ff022ac9eee9" />
