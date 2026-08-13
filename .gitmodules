@@ -1,3 +1,6 @@
 [submodule "orders-shop-ms"]
 	path = orders-shop-ms
 	url = git@github.com:lumahdev/orders-shop-ms.git
+[submodule "email-shop-ms"]
+	path = email-shop-ms
+	url = git@github.com:lumahdev/email-shop-ms.git
