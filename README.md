@@ -1,4 +1,4 @@
-# 🛒 Microsserviço de E-mail para Loja Virtual
+# 🛒 API de Sistema de Pedidos com Mensageria para Enviar E-mails
 Neste projeto, realizei uma simulação de um microsserviço para o envio de e-mails baseado nos eventos comumente disparados em uma loja virtual.
 
 <img width="1853" height="981" alt="image" src="https://github.com/user-attachments/assets/79903ba2-c8de-435d-9f0a-8633180f486f" />
